@@ -1,4 +1,4 @@
-classes= 2
+classes= 3
 train  = BBAI/train.txt
 valid  = BBAI/train.txt
 names = BBAI/BBAI.names

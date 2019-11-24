@@ -1,1 +1,1 @@
-{"Object_Water":"Badionotus","Object_Confidence_Water":"0%","Distance_Water":"0.0","Angle_Water":"0.0,"Height_Water:":"0.0","Object_Tennis":"Mammata","Object_Confidence_Tennis":"0%","Distance_Tennis":"-77335664701521361534864850944.0","Angle_Tennis":"0.0,"Height_Tennis:":"0.0"}
+{"Object_Water":"Badionotus","Object_Confidence_Water":"0%","Distance_Water":"0.0","Angle_Water":"0.0,"Height_Water:":"0.0","Object_Tennis":"Mammata","Object_Confidence_Tennis":"0%","Distance_Tennis":"0.0","Angle_Tennis":"0.0,"Height_Tennis:":"0.0"}
